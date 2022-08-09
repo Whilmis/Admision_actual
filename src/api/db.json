@@ -1,0 +1,122 @@
+{
+  "registros": [
+    {
+      "nombreEstudiante": "111",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "40000",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "5454847",
+      "confirmacion": false,
+      "pago": false,
+      "id": 1659964313817
+    },
+    {
+      "nombreEstudiante": "Whilmis",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "40000",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "5454847",
+      "confirmacion": false,
+      "pago": false,
+      "idUsuario": null,
+      "id": 1659964852604
+    },
+    {
+      "nombreEstudiante": "Whilmis",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "402-5554890-8",
+      "confirmacion": false,
+      "pago": false,
+      "idUsuario": null,
+      "id": 1659965904744
+    },
+    {
+      "nombreEstudiante": "Whilmis",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "40000",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "5454847",
+      "confirmacion": false,
+      "pago": false,
+      "idUsuario": null,
+      "id": 1659966106332
+    },
+    {
+      "nombreEstudiante": "Whilmis",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "40000",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "5454847",
+      "confirmacion": false,
+      "pago": false,
+      "idUsuario": 5,
+      "id": 1659967447790
+    },
+    {
+      "nombreEstudiante": "Whilmis",
+      "apellidoEstudiante": "Perez De Peña",
+      "actaNacimiento": "001-054564-7",
+      "direccion": "La victoria calle Altagracia #42",
+      "nombrePadre": "Whilmis",
+      "apellidoPadre": "Perez De Peña",
+      "telefono": "8095442812",
+      "cedula": "402-5554890-8",
+      "confirmacion": false,
+      "pago": false,
+      "idUsuario": 5,
+      "id": 1659967447791
+    }
+  ],
+  "users": [
+    {
+      "nombre": "Whilmis",
+      "apellido": "Perez",
+      "gmail": "Whilmis21@gmail.com",
+      "contrasena": "1234",
+      "admin": true,
+      "id": 2424
+    },
+    {
+      "nombre": "Richard",
+      "apellido": "Hernandez",
+      "gmail": "Richard@gmail.com",
+      "contrasena": "5555",
+      "admin": true,
+      "id": 1659894580590
+    },
+    {
+      "nombre": "dsfas",
+      "apellido": "dafasd",
+      "gmail": "paco@gmail.com",
+      "contrasena": "dafdsf",
+      "admin": false,
+      "id": 1659912204483
+    },
+    {
+      "nombre": "Whilmis",
+      "apellido": "Whilmis",
+      "gmail": "Pipi@gmail.com",
+      "contrasena": "66666",
+      "admin": true,
+      "id": 1659916323414,
+      "password": ""
+    }
+  ]
+}
